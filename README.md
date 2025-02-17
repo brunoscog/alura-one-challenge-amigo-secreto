@@ -14,14 +14,18 @@
 
 </p>
 
-# Índice 
+# Índice
 
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Funcionalidades do Projeto](#funcionalidades-do-projeto)
+* [Blocos de Códigos](#blocos-de-códigos)
+  * [index.html](#indexhtml)
+  * [app.js](#appjs)
+  * [style.css](#stylecss)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Desenvolvido por](##desenvolvido-por)
+* [Desenvolvido por](#desenvolvido-por)
 
 ## Descrição do Projeto
 
