@@ -17,7 +17,6 @@
 # Índice
 
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-projeto)
 * [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 * [Blocos de Códigos](#blocos-de-códigos)
   * [index.html](#indexhtml)
@@ -31,12 +30,6 @@
 
 O **Amigo Secreto** é uma aplicação web simples onde os usuários podem adicionar nomes de amigos em uma lista e realizar o sorteio de um amigo secreto de forma aleatória.
 
-## Status do Projeto
-
-<p align="center"> 
-    Projeto concluído.
-</p>
-
 ## Funcionalidades do Projeto
 
 
@@ -45,10 +38,6 @@ O **Amigo Secreto** é uma aplicação web simples onde os usuários podem adici
 - `Visualização de lista`: Os amigos inseridos são exibidos em uma lista ordenada.
 - `Sorteio`: Um botão permite realizar o sorteio de um amigo aleatório da lista e exibe o nome sorteado na tela.
 
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x400.png?text=Gif+ou+Imagem+da+Aplicação" alt="Demonstração da aplicação Amigo Secreto">
-</p>
 
 ## Blocos de Códigos
 
